@@ -37,8 +37,8 @@ Supabase (History Storage)
 
 ### Clone repo
 
-git clone https://github.com/ssnehatiwari21/prforge.git 
-cd prforge  
+git clone https://github.com/ssnehatiwari21/prforge.git  
+cd prforge   
 
 ### Create environment
 
